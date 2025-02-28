@@ -1,11 +1,11 @@
 <h1>Chat App Basics</h1>
 
-<h5>A lightweight, real-time chat app powered by Node.js and Socket.io. Stay connected with instant messaging over WebSockets!</h5>
-<h4>1 Clone the repo:<h4>
+<h2>A lightweight, real-time chat app powered by Node.js and Socket.io. Stay connected with instant messaging over WebSockets!</h2>
+<h1>1 Clone the repo:<h1>
 <code>git clone https://github.com/njosuedev/chatapp.git<code>
-<h4>2 Install dependencies<h4>
+<h1>2 Install dependencies<h1>
 <code>npm install</code>
-<h4>Start the Server</h4>
+<h1>Start the Server</h1>
 <code>node server.js</code>
-<h5>✨ Loved it? Smash that ⭐ Star button on GitHub! 🚀🔥</h5>
+<h1>✨ Loved it? Smash that ⭐ Star button on GitHub! 🚀🔥</h1>
 
