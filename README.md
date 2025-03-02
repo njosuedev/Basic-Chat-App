@@ -6,7 +6,5 @@
 <h4>Install dependencies<h4>
 <code>3 npm install</code>
 <h4>4 Start the Server</h4>
-<code>5 node server.js</code> 
-![Dark_Neon_Simple_Futuristic_UIUX_Designer_LinkedIn_Banner__2__1020x362-removebg-preview](https://github.com/user-attachments/assets/59a51edc-2425-4837-a3b2-19a8d28172b5)
-
+<code>5 node server.js</code>
 
