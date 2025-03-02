@@ -1,7 +1,20 @@
-li{
-    background-color: #333;
-    color: #fff;
+#messages li{
+    color: #242222;
     padding: 10px 30px;
     border-radius: 10px;
-    margin-bottom: 2px;
+    margin-bottom: 5px;
+    list-style: none;
+}
+#messages li:nth-child(odd) {
+    background: #333;
+    color: #fff;
+    float: right;
+    margin-bottom: 2rem;
+}
+#messages li:nth-child(even) {
+    background: #333;
+    color: #fff;
+    float: left;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
